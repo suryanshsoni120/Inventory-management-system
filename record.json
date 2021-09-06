@@ -1,0 +1,226 @@
+{
+  "1": {
+    "Name": "Headphone",
+    "Price": 2000.0,
+    "Quantity": 60,
+    "Category": "Electronics",
+    "Discount": 0
+  },
+  "2": {
+    "Name": "Laptop",
+    "Price": 60000.0,
+    "Quantity": 25,
+    "Category": "Electronics",
+    "Discount": 5000
+  },
+  "3": {
+    "Name": "Mobiles",
+    "Price": 20000.0,
+    "Quantity": 30,
+    "Category": "Electronics",
+    "Discount": 1500
+  },
+  "4": {
+    "Name": "Biscuits",
+    "Price": 300.0,
+    "Quantity": 25,
+    "Category": "Eatables",
+    "Discount": 25
+  },
+  "5": {
+    "Name": "Chocolates",
+    "Price": 150.0,
+    "Quantity": 25,
+    "Category": "Eatables",
+    "Discount": 15
+  },
+  "6": {
+    "Name": "Chips",
+    "Price": 90.0,
+    "Quantity": 25,
+    "Category": "Eatables",
+    "Discount": 35
+  },
+  "7": {
+    "Name": "Redbull",
+    "Price": 115.0,
+    "Quantity": 125,
+    "Category": "Drinks",
+    "Discount": 15
+  },
+  "8": {
+    "Name": "Bhujia Sev",
+    "Price": 45.0,
+    "Quantity": 100,
+    "Category": "Eatables",
+    "Discount": 5
+  },
+  "9": {
+    "Name": "Hersheys",
+    "Price": 150.0,
+    "Quantity": 25,
+    "Category": "Eatables",
+    "Discount": 45
+  },
+  "10": {
+    "Name": "Ghee",
+    "Price": 400.0,
+    "Quantity": 85,
+    "Category": "Eatables",
+    "Discount": 40
+  },
+  "11": {
+    "Name": "Cheese",
+    "Price": 240.0,
+    "Quantity": 25,
+    "Category": "Eatables",
+    "Discount": 0
+  },
+  "12": {
+    "Name": "Butter",
+    "Price": 520.0,
+    "Quantity": 25,
+    "Category": "Eatables",
+    "Discount": 0
+  },
+  "13": {
+    "Name": "Soda",
+    "Price": 230.0,
+    "Quantity": 35,
+    "Category": "Drinks",
+    "Discount": 30
+  },
+  "14": {
+    "Name": "Hair oil",
+    "Price": 230.0,
+    "Quantity": 25,
+    "Category": "Cosmetic",
+    "Discount": 15
+  },
+  "15": {
+    "Name": "Comb",
+    "Price": 30.0,
+    "Quantity": 25,
+    "Category": "Cosmetic",
+    "Discount": 0
+  },
+  "16": {
+    "Name": "Refine oil",
+    "Price": 1000.0,
+    "Quantity": 75,
+    "Category": "Eatables",
+    "Discount": 120
+  },
+  "17": {
+    "Name": "Chocopie",
+    "Price": 200.0,
+    "Quantity": 25,
+    "Category": "Eatables",
+    "Discount": 20
+  },
+  "18": {
+    "Name": "Candy",
+    "Price": 50.0,
+    "Quantity": 25,
+    "Category": "Eatables",
+    "Discount": 0
+  },
+  "19": {
+    "Name": "Ketchup",
+    "Price": 100.0,
+    "Quantity": 25,
+    "Category": "Eatables",
+    "Discount": 30
+  },
+  "20": {
+    "Name": "Fruits",
+    "Price": 200.0,
+    "Quantity": 25,
+    "Category": "Eatables",
+    "Discount": 15
+  },
+  "21": {
+    "Name": "Bread",
+    "Price": 45.0,
+    "Quantity": 45,
+    "Category": "Eatables",
+    "Discount": 3
+  },
+  "22": {
+    "Name": "Glass",
+    "Price": 150.0,
+    "Quantity": 25,
+    "Category": "Crockery",
+    "Discount": 20
+  },
+  "23": {
+    "Name": "Plates",
+    "Price": 250.0,
+    "Quantity": 25,
+    "Category": "Crockery",
+    "Discount": 14
+  },
+  "24": {
+    "Name": "Wiper",
+    "Price": 375.0,
+    "Quantity": 25,
+    "Category": "Cleaning",
+    "Discount": 55
+  },
+  "25": {
+    "Name": "Harpic",
+    "Price": 65.0,
+    "Quantity": 25,
+    "Category": "Cleaning",
+    "Discount": 0
+  },
+  "26": {
+    "Name": "Surf-excel",
+    "Price": 210.0,
+    "Quantity": 15,
+    "Category": "Cleaning",
+    "Discount": 25
+  },
+  "27": {
+    "Name": "Eye-liner",
+    "Price": 155.0,
+    "Quantity": 25,
+    "Category": "Cosmetic",
+    "Discount": 40
+  },
+  "28": {
+    "Name": "Facewash",
+    "Price": 245.0,
+    "Quantity": 25,
+    "Category": "Cosmetic",
+    "Discount": 50
+  },
+  "29": {
+    "Name": "Notebook",
+    "Price": 285.0,
+    "Quantity": 50,
+    "Category": "Stationary",
+    "Discount": 15
+  },
+  "30": {
+    "Name": "Pen",
+    "Price": 85.0,
+    "Quantity": 10,
+    "Category": "Stationary",
+    "Discount": 25
+  },
+  "31": {
+    "Name": "Dettol Handwash",
+    "Price": 30.0,
+    "Quantity": 50,
+    "Category": "Healthcare",
+    "Discount": 0
+  },
+  "32": {
+    "Name": "Masks",
+    "Price": 40.0,
+    "Quantity": 100,
+    "Category": "Healthcare",
+    "Discount": 0
+  }
+}
